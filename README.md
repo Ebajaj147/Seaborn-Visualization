@@ -6,7 +6,7 @@ In this project I'll be using Seaborn to help you explore and understand your da
 
 Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 
-**DataSet Used - **
+**DataSet Used -**
 
 Pokemon.csv - The Pokemon dataset
 
