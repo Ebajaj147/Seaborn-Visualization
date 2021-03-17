@@ -1,4 +1,4 @@
-**Introduction - **
+**Introduction -**
 
 In this project I'll be using Seaborn to help you explore and understand your data. Its plotting functions operates on dataframes and arrays containing whole datasets and internally perform the necessary semantic mapping and statistical aggregation to produce informative plots. Its dataset-oriented, declarative API lets you focus on what the different elements of your plots mean, rather than on the details of how to draw them.
 
@@ -16,11 +16,11 @@ Pokemon.csv - The Pokemon dataset
 2. matplotlib
 3. seaborn
 
-**Project Conclusion - **
+**Project Conclusion -**
 
 Successfully implemented several data visualization techniques such as Violen plots, Box plots, Histograms including legends and many more.
 
-**Example Outputs - **
+**Example Outputs -**
 
 1. Factor Plots
 <img width="1440" alt="FactorPlot" src="https://user-images.githubusercontent.com/46665472/111067554-e38fd500-84ea-11eb-82b8-483c0e53fa6c.png">
